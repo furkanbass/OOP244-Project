@@ -1,0 +1,18 @@
+﻿  Bill.cpp
+  Date.cpp
+  Error.cpp
+  Item.cpp
+  NonPerishable.cpp
+  Perishable.cpp
+  PosApp.cpp
+C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\Utils.h(20,25): warning C4099: 'sdds::Item': type name first seen using 'class' now seen using 'struct'
+C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\Item.h(22,8): message : see declaration of 'sdds::Item'
+  PosIO.cpp
+  Utils.cpp
+C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\Item.h(22,13): warning C4099: 'sdds::Item': type name first seen using 'struct' now seen using 'class'
+C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\Item.h(22,8): message : see declaration of 'sdds::Item'
+C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\Utils.cpp(46,28): warning C4099: 'sdds::Item': type name first seen using 'class' now seen using 'struct'
+C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\Item.h(22,8): message : see declaration of 'sdds::Item'
+  main.cpp
+  Generating Code...
+  MS-5.1.vcxproj -> C:\Users\FURKAN\Desktop\Documents\Furkan Educational\Furkan Seneca\Semester-2\OOP244 - ZBB\MS-5.1\x64\Debug\MS-5.1.exe
